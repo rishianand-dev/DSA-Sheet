@@ -11,4 +11,12 @@
  8 Dec
   Time Complexity
 
+  9 Dec
+
+  10 Dec
+  Bitwise Xor ^
+  1. Single Number
+  2. Missing Number
+  3. Max consecutive one
+
 
