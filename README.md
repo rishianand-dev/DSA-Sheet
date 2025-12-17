@@ -26,5 +26,7 @@ Interview prep(11-14dec)
     2. Sort an Array
 17. Dec
     1. Selection sort
+    2. Insertion sort <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/83affa00-d6f9-4ba6-b23c-3db04951a43d" />
+
 
 
