@@ -22,10 +22,8 @@
 Interview prep(11-14dec)
 
 15. Dec
-
-  1. Bubble sort
-  2. Sort an Array
-
+    1. Bubble sort
+    2. Sort an Array
 17. Dec
     1. Selection sort
 
