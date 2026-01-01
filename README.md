@@ -37,11 +37,13 @@ Interview prep(11-14dec)
  1. Integer to Roman
 
 22 Dec
- Namaste DSA stack and queuqe lecture attended.
- <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9fbecc8e-3847-42f1-90a4-3619a37201ae" />
+ 1. Namaste DSA stack and queuqe lecture attended.
 
- Introduction to Stacks and Queues
- 1. Implement Stack using Queque
+ 
+ 2.  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9fbecc8e-3847-42f1-90a4-3619a37201ae" />
+
+ 3. Introduction to Stacks and Queues
+ 4. Implement Stack using Queque(leetcode)
 
 2026
 1 Jan
