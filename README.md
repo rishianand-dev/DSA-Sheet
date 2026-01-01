@@ -30,5 +30,22 @@ Interview prep(11-14dec)
     3. 
         <img width="380" height="300" alt="image" src="https://github.com/user-attachments/assets/83affa00-d6f9-4ba6-b23c-3db04951a43d" />
 
+20 Dec
+ 1. Container with most water
+
+21 Dec
+ 1. Integer to Roman
+
+22 Dec
+ Namaste DSA stack and queuqe lecture attended.
+ <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9fbecc8e-3847-42f1-90a4-3619a37201ae" />
+
+ Introduction to Stacks and Queues
+ 1. Implement Stack using Queque
+
+2026
+1 Jan
+ 1. Recursion all lecture completed 
+ 2. Power of 2 (leetcode)
 
 
