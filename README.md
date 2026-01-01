@@ -43,6 +43,8 @@ Interview prep(11-14dec)
  2.  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9fbecc8e-3847-42f1-90a4-3619a37201ae" />
  3. <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/603eacc6-e096-4dba-bbf1-704476e915f1" />
  4. <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a5030078-529d-4bc6-8977-9d10dc8679de" />
+ 5. <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/061698f1-3dfa-47ee-bf86-3c4dffb36734" />
+
 
 
  5. Introduction to Stacks and Queues
