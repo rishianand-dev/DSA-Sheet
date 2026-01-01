@@ -47,7 +47,9 @@ Interview prep(11-14dec)
 
 2026
 1 Jan
- 1. Recursion all lecture completed 
- 2. Power of 2 (leetcode)
+ 1. Recursion all lecture completed
+ 2. <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a49b9d49-9a86-4bc3-b64f-d494223d7ece" />
+
+ 3. Power of 2 (leetcode)
 
 
