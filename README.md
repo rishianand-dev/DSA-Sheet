@@ -58,14 +58,16 @@ Interview prep(11-14dec)
  3. Power of 2 (leetcode)
     
 2 Jan
- 1. Implement Queue using stacks (lecture)
- 2. Implement queue using stacks - (leetcode)
+  1. Implement Queue using stacks (lecture)
+  2. Implement queue using stacks - (leetcode)
+
 
 3 Jan
- 1. valid parenthesis - lecture
+  1. valid parenthesis - lecture
+
 
 4. Jan
- 1. Valid Parenthesis - leetcode
- 2. Product of array except self - leetcode
+  1. Valid Parenthesis - leetcode
+  2. Product of array except self - leetcode
 
 
