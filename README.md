@@ -71,4 +71,6 @@ Interview prep(11-14dec)
   1. Valid Parenthesis - leetcode
   2. Product of array except self - leetcode
 
-
+5 Jan
+1. Min stack lecture and leetcode
+2. Remove duplicates from sorted array leetcode 
