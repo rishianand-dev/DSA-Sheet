@@ -72,5 +72,5 @@ Interview prep(11-14dec)
   2. Product of array except self - leetcode
 
 5 Jan
-1. Min stack lecture and leetcode
+1. Min stack lecture and leetcode (intuation -> precalcuate min of stack while doing push())
 2. Remove duplicates from sorted array leetcode 
