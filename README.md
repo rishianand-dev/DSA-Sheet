@@ -74,3 +74,6 @@ Interview prep(11-14dec)
 5 Jan
 1. Min stack lecture and leetcode (intuation -> precalcuate min of stack while doing push())
 2. Remove duplicates from sorted array leetcode 
+
+8 Jan
+ 1. Remove outermost parenthesis - lecture and leetcode
