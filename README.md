@@ -77,3 +77,6 @@ Interview prep(11-14dec)
 
 8 Jan
  1. Remove outermost parenthesis - lecture and leetcode
+
+11. Jan
+    1. Evaluate Reverse Polish Notation lecture and leetcode
