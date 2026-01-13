@@ -83,3 +83,6 @@ Interview prep(11-14dec)
 
 12 Jan
   1. Next greater element -1 leetcode through stack
+
+13 Jan 
+  1. Daily Temperator leetcode
