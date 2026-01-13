@@ -80,3 +80,6 @@ Interview prep(11-14dec)
 
 11 Jan
   1. Evaluate Reverse Polish Notation lecture and leetcode
+
+12 Jan
+  1. Next greater element -1 leetcode through stack
