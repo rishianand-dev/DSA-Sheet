@@ -107,3 +107,18 @@ Interview prep(11-14dec)
 21 Jan
    1. Move Zero -- revision
    2. Max consecutive one --- revision
+
+22 Jan
+
+23 Jan
+
+
+31 Jan
+ Find smaller number greater than target
+ Delete node in the linklist
+
+1 Feb
+ Remove nth node from end of the list
+ convert Binary number in linklist to integer
+ Middle of linklist
+ 
