@@ -121,4 +121,9 @@ Interview prep(11-14dec)
  Remove nth node from end of the list
  convert Binary number in linklist to integer
  Middle of linklist
+
+2 Feb
+ Insertion at the head of Linked List
+ Search an element in LL
+ Find the length of a linklist
  
