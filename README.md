@@ -126,4 +126,5 @@ Interview prep(11-14dec)
  1. Insertion at the head of Linked List
  2. Search an element in LL
  3. Find the length of a linklist
+ 4. Reverse linklist
  
