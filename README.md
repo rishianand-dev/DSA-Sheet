@@ -127,4 +127,10 @@ Interview prep(11-14dec)
  2. Search an element in LL
  3. Find the length of a linklist
  4. Reverse linklist
- 
+
+3 Feb
+ 1. Slow and fast pointer **(let's two person is running one at speed d and second at d/2 once first person complete the entire journey, we can surely say second with d/2 speed has coverd the half the distance covered by first)**
+ 2. slow and fast -> to find middle of linklist, to find loop in linklist (if there is a loop , pointer will overlap at one time. see the diff between fast and slow pointer in forwward direction check img. at each step you will observe that distance is decreasing by 1 so in  future we can surely say that distance will come up to 0 at one point)
+ 3. <img width="817" height="557" alt="image" src="https://github.com/user-attachments/assets/1725db74-8b71-41f0-9423-21c01e356de1" />
+ 4. Detch a loop in LL
+
