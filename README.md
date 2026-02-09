@@ -134,3 +134,16 @@ Interview prep(11-14dec)
  3. <img width="817" height="557" alt="image" src="https://github.com/user-attachments/assets/1725db74-8b71-41f0-9423-21c01e356de1" />
  4. Detch a loop in LL
 
+8 Feb
+   Array Reduce Transformation
+   Apply Transform Over Each Element in Array
+   Filter Elements from Array
+   Counter II
+    To Be Or Not To Be
+    
+9 Feb
+  Is Object Empty
+  Memoize
+  Allow One Function Call
+  Function Composition
+  Return Length of Arguments Passed
