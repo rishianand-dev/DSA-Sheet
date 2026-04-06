@@ -147,3 +147,15 @@ Interview prep(11-14dec)
   Allow One Function Call
   Function Composition
   Return Length of Arguments Passed
+
+6 April
+ 1. 2623. Memoize
+ 2. Filter Elements from Array
+ 3. Debounce
+
+7 April
+  1. Remove Nth Node From End of List
+  2. Delete the Middle Node of a Linked
+  3. Apply Transform Over Each Element
+  4. Rotate List
+  5. Reverse Linked List
