@@ -159,3 +159,8 @@ Interview prep(11-14dec)
   3. Apply Transform Over Each Element
   4. Rotate List
   5. Reverse Linked List
+
+12. April
+  1. Max Consecutive Ones
+  2. Missing Number
+  3. Single Number
