@@ -160,10 +160,25 @@ Interview prep(11-14dec)
   4. Rotate List
   5. Reverse Linked List
 
-10. April
+10 April
    1. Remove Duplicate Letters
 
-12. April
+12 April
   1. Max Consecutive Ones
   2. Missing Number
   3. Single Number
+
+ 13 April
+   1. two sum
+   2. Array two transformation
+   3. Array Prototype last
+   4. move zero
+
+14 April
+    1. sleep
+   2. add two promises
+17 April
+ 1. Remove k digits
+    
+18 April
+  1. Next greater element 1
