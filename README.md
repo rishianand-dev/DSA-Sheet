@@ -161,24 +161,26 @@ Interview prep(11-14dec)
   5. Reverse Linked List
 
 10 April
-   1. Remove Duplicate Letters
+   1. Remove Duplicate Letters revision
 
 12 April
-  1. Max Consecutive Ones
-  2. Missing Number
-  3. Single Number
+  1. Max Consecutive Ones revision
+  2. Missing Number revision
+  3. Single Number revision
 
  13 April
-   1. two sum
-   2. Array two transformation
-   3. Array Prototype last
-   4. move zero
+   1. two sum revision
+   2. Array two transformation revision
+   3. Array Prototype last revision
+   4. move zero revision
 
 14 April
-    1. sleep
-   2. add two promises
+    1. sleep revision
+   2. add two promises revision
 17 April
- 1. Remove k digits
+ 1. Remove k digits revision
     
 18 April
-  1. Next greater element 1
+  1. Next greater element 1 revision
+19 April
+   1. Contain duplicates II revision
