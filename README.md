@@ -191,3 +191,7 @@ Interview prep(11-14dec)
 
 3 May
   1. Event Emitter
+
+5 May
+ 1. Compact Object
+
