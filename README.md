@@ -195,3 +195,10 @@ Interview prep(11-14dec)
 5 May
  1. Compact Object
 
+Top Interview 150
+
+14 may
+ 1. Rotate array
+
+17 may 
+  1. Majority element
