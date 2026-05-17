@@ -202,3 +202,4 @@ Top Interview 150
 
 17 may 
   1. Majority element
+  2. Remove Element
